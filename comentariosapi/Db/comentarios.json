@@ -1,0 +1,16 @@
+[
+    {
+        "id": 1,
+        "nombre": "Bilal",
+        "nota": 9,
+        "texto": "Es buena peli. La recomiendo",
+        "id_peli": 12
+    },
+    {
+        "id": 2,
+        "nombre": "Diego",
+        "nota": 10,
+        "texto": "Toop",
+        "id_peli": 12
+    }
+]

@@ -1,0 +1,92 @@
+[
+    {
+        "id": 1,
+        "nombre": "Bitcoin",
+        "simbolo": "BTC",
+        "descripcion": "Bitcoin has become a hot commodity among speculators",
+        "precio": 36826,
+        "porcentaje": -2.18,
+        "capitalizacion": 690750000000
+    },
+    {
+        "id": 2,
+        "nombre": "Ethereum",
+        "simbolo": "ETH",
+        "descripcion": "Ethereum is the most actively used blockchain",
+        "precio": 1226.4,
+        "porcentaje": 2.48,
+        "capitalizacion": 140950000000
+    },
+    {
+        "id": 3,
+        "nombre": "Tether",
+        "simbolo": "USDT",
+        "descripcion": "Tether belongs to a new breed of cryptocurrencies called stablecoins that aims to keep cryptocurrency valuations stable",
+        "precio": 1.0012,
+        "porcentaje": 0.19,
+        "capitalizacion": 24310000000
+    },
+    {
+        "id": 4,
+        "nombre": "Polkadot",
+        "simbolo": "DOT",
+        "descripcion": "Blockchains can exchange messages in a secure and trust-free manner with Polkadot",
+        "precio": 17.4156,
+        "porcentaje": 26.68,
+        "capitalizacion": 15000000000
+    },
+    {
+        "id": 5,
+        "nombre": "Ripple",
+        "simbolo": "XRP",
+        "descripcion": "Ripple is the third-largest cryptocurrency by market cap, following Bitcoin and Ethereum",
+        "precio": 0.28717,
+        "porcentaje": 0.97,
+        "capitalizacion": 13040000000
+    },
+    {
+        "id": 6,
+        "nombre": "Cardano",
+        "simbolo": "ADA",
+        "descripcion": "Cardano's internal cryptocurrency is called Ada",
+        "precio": 0.34979,
+        "porcentaje": 8.47,
+        "capitalizacion": 10920000000
+    },
+    {
+        "id": 7,
+        "nombre": "Litecoin",
+        "simbolo": "LTC",
+        "descripcion": "Litecoin focuses on using the latest in technology to improve performance and user experience.",
+        "precio": 147.9,
+        "porcentaje": 0.44,
+        "capitalizacion": 9790000000
+    },
+    {
+        "id": 8,
+        "nombre": "Bitcoin Cash",
+        "simbolo": "BCH",
+        "descripcion": "Bitcoin Cash increased the size of blocks, allowing more transactions to be processed and improving scalability",
+        "precio": 500.3,
+        "porcentaje": 0.57,
+        "capitalizacion": 9280000000
+    },
+    {
+        "id": 9,
+        "nombre": "Chainlink",
+        "simbolo": "LINK",
+        "descripcion": "Chainlink is seeking to support all blockchain-based smart contract networks",
+        "precio": 22.23,
+        "porcentaje": 7.77,
+        "capitalizacion": 8800000000
+    },
+    {
+        "id": 10,
+        "nombre": "Stellar",
+        "simbolo": "XLM",
+        "descripcion": "Stellar has its native cryptocurrency called lumens, which is denoted by the symbol XLM",
+        "precio": 0.30205,
+        "porcentaje": 1.23,
+        "capitalizacion": 6650000000
+    }
+]

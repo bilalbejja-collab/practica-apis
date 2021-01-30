@@ -1,0 +1,57 @@
+[
+    {
+        "id": 1,
+        "latitud": 10.50,
+        "longitud": 46.50,
+        "ciudad": "Vera",
+        "direccion": "crta de aguilas",
+        "etiqueta": "VRA",
+        "descripcion": "...",
+        "estado": "abierta",
+        "id_cliente": 44
+    },
+    {
+        "id": 2,
+        "latitud": 20.50,
+        "longitud": 16.50,
+        "ciudad": "Garrucha",
+        "direccion": "crta mojonera",
+        "etiqueta": "GRU",
+        "descripcion": "...",
+        "estado": "enproceso",
+        "id_cliente": 23
+    },
+    {
+        "id": 3,
+        "latitud": 66.50,
+        "longitud": 76.50,
+        "ciudad": "Mojacar",
+        "direccion": "calle marruecos",
+        "etiqueta": "MJR",
+        "descripcion": "...",
+        "estado": "cerrada",
+        "id_cliente": 70
+    },
+    {
+        "id": 4,
+        "latitud": 15.80,
+        "longitud": 8.60,
+        "ciudad": "Almeria",
+        "direccion": "crta de murcia",
+        "etiqueta": "ALM",
+        "descripcion": "...",
+        "estado": "abierta",
+        "id_cliente": 12
+    },
+    {
+        "id": 5,
+        "latitud": 32.50,
+        "longitud": 56.50,
+        "ciudad": "Albox",
+        "direccion": "calle libertad",
+        "etiqueta": "ALX",
+        "descripcion": "...",
+        "estado": "enproceso",
+        "id_cliente": 2
+    }
+]

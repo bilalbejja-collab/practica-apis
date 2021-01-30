@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "nombre": "BILAL",
+        "direccion": "calle lorca",
+        "localidad": "Vera",
+        "movil": "632338899",
+        "dni": "54544665E"
+    },
+    {
+        "id": 2,
+        "nombre": "JOSE",
+        "direccion": "calle juan cuadrado",
+        "localidad": "Garrucha",
+        "movil": "654487977",
+        "dni": "65465478T"
+    },
+    {
+        "id": 3,
+        "nombre": "Manu",
+        "direccion": "calle la vigen",
+        "localidad": "Almeria",
+        "movil": "954567874",
+        "dni": "78976546R"
+    },
+    {
+        "id": 4,
+        "nombre": "Antonio",
+        "direccion": "calle la vida",
+        "localidad": "Mojacar",
+        "movil": "756464878",
+        "dni": "79874546W"
+    },
+    {
+        "id": 5,
+        "nombre": "Marcos",
+        "direccion": "calle la gloria",
+        "localidad": "Carboneras",
+        "movil": "745457874",
+        "dni": "88888888C"
+    }
+]
